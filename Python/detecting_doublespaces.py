@@ -1,0 +1,5 @@
+a = input("Write something\n")
+doublespaces = a.find("  ")
+print(doublespaces)
+doublespaces = a.replace("  "," ")
+print(doublespaces)
